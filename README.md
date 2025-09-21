@@ -6,7 +6,7 @@ Various Kinds of modules such as langchain, google.generative ai , streamlit, py
 
 The Whole idea is to create a chatbot that can understand a certain pdf , then start a normal one on one conversations with the user based on user's questions.
 
-This model was deployed online using streamlit.
+This model is deployed online using streamlit.
 
 This Program is a mixture of python, streamlit and prompt engineering.
 
