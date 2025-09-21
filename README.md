@@ -1,6 +1,6 @@
 # RAG Based Chatbot
 
-This is a Chatbot that is being created using RAG to understand how the working of AI model can be modified to understand the dataset.
+This is a Chatbot that is being created using RAG to understand how the working of AI model can be modified to improve user- bot experience.
 
 Various Kinds of modules such as langchain, google.generative ai , streamlit, pypdf and user defined functions are being used to extract data and implement them in analysis.
 
